@@ -9,7 +9,7 @@ export const Footer = () => {
         <div className="footer-content-left">
           <img src={assets.logo} alt="" />
           <p>This is a food delivery app</p>
-          <div className="footer-social-icons"> 
+          <div className="footer-social-icons">
             <img src={assets.facebook_icon} alt="" />
             <img src={assets.twitter_icon} alt="" />
             <img src={assets.linkedin_icon} alt="" />
